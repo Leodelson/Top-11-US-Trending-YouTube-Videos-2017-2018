@@ -46,8 +46,7 @@ User Interaction: High likes and comments suggest strong viewer interaction and 
 Shift in Content Type: Over time, the nature of trending videos evolves with emerging trends, viral challenges, and major releases.
 Influence of Social Media: The role of platforms like Twitter and Instagram in driving video popularity and engagement.
 # Summary of Most Popular Channels and Video Impact
-BeckyGVEVO, ChildishGambinoVEVO, and Others
-These channels consistently produce content that resonates with the audience, driving high engagement and trending status.
+BeckyGVEVO, ChildishGambinoVEVO, followed by Others. These channels consistently produce content that resonates with the audience, driving high engagement and trending status.
 ## Viewer Engagement Metrics
 High likes, comments, and views: Reflective of the content's ability to capture and retain viewer attention.
 # Conclusion
