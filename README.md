@@ -1,7 +1,8 @@
 # Top 11 Trending US YouTube Videos Analysis from 2017-2018
 The Top 11 Trending US YouTube Videos Dashboard provides an in-depth analysis of the top 11 trending YouTube videos in the United States from 2017-2018. This data reveals significant trends in viewer engagement, including likes, comments, and views, across popular channels and videos during this period. This analysis highlights the most popular videos, the engagement metrics, and the key insights drawn from these trends.
 ## Dashboard Visualization
-![Youtubestreamer](https://github.com/user-attachments/assets/72f7d502-4122-4f89-aeef-dcf7c6284bb2)
+![Youtubestreamer](https://github.com/user-attachments/assets/aa272f12-c38d-408a-b4f7-95f70956d4c4)
+
 
 ## Most Popular Channels
 Channel Filters: Buttons to filter data by specific YouTube channel titles. Channels listed are
