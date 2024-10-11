@@ -1,7 +1,7 @@
 # Top 11 Trending US YouTube Videos Analysis (2017-2018)
 ## Understanding Viewer Engagement Trends on YouTube
 ### Analyst: Leo
-### Date: 10/10/2014
+### Date: 08/10/2014
 ## Overview of YouTube Videos Analysis Dashboard
 ## Dashboard Visualization
 ![Youtubestreamer](https://github.com/user-attachments/assets/aa272f12-c38d-408a-b4f7-95f70956d4c4)
