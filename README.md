@@ -2,7 +2,7 @@
 ### Understanding Viewer Engagement Trends on YouTube  
 
 **Analyst:** Leo  
-**Date:** 08/13/202  
+**Date:** 08/13/2024  
 
 ---
 
